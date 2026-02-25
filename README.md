@@ -9,7 +9,7 @@
                                                                           |___/
 A simple and safe tool to change the Firefox desktop icon.
 ```
-> Download the ZIP file [from here](https://github.com/m3tozz/firefox-icon-changer/archive/refs/tags/v1.zip) to use it. After that, extract the files from the ZIP and run the `firefox-icon-changer.bat` file. You can find the icon previews [here](https://github.com/m3tozz/firefox-icon-changer/blob/main/preview-icons.png).
+> Download the ZIP file [from here](https://github.com/m3tozz/firefox-icon-changer/archive/refs/tags/v2.zip) to use it. After that, extract the files from the ZIP and run the `firefox-icon-changer.bat` file. You can find the icon previews [here](https://github.com/m3tozz/firefox-icon-changer/blob/main/preview-icons.png).
 
 > [!WARNING]
 >If you have used firefox-icon-changer before, restart your device and run it again; otherwise, the main Firefox icon will not change.
